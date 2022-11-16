@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://burning.github.io</id>
+    <title>Burning</title>
+    <updated>2022-11-16T03:06:54.617Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://burning.github.io"/>
+    <link rel="self" href="https://burning.github.io/atom.xml"/>
+    <subtitle>Burning</subtitle>
+    <logo>https://burning.github.io/images/avatar.png</logo>
+    <icon>https://burning.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Burning</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://burning.github.io/post/test/</id>
+        <link href="https://burning.github.io/post/test/">
+        </link>
+        <updated>2022-11-16T00:42:22.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+</feed>
